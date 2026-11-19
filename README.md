@@ -1,76 +1,82 @@
 # David Steven Gonzalez Padilla
 
-Desarrollador Full Stack con mas de 4 anos de experiencia construyendo soluciones web para el sector publico y empresarial. Ingeniero Electronico de la Universidad Cooperativa de Colombia, actualmente cursando una especializacion en Gestion de Tecnologia de Informacion.
+**Arquitecto de Soluciones Digitales · Desarrollador Full Stack** · Bogotá, Colombia
 
-Trabajo con Laravel y Vue.js como stack principal. Me enfoco en escribir codigo limpio, arquitecturas multi-tenant y sistemas que resuelvan problemas reales.
+Más de 5 años en desarrollo de software y automatización de procesos para los sectores salud, público y empresarial. Hoy soy Arquitecto de Soluciones Digitales en Sies Salud, donde respondo por la calidad técnica de diez aplicaciones: defino la arquitectura común, los estándares de ingeniería y el modelo de datos compartido, gobierno el código en GitHub y apruebo cada despliegue.
 
----
+Sigo construyendo de extremo a extremo, de la base de datos al servidor. Vengo de mejora continua, así que entiendo el proceso antes de escribir la primera línea.
 
-### Sobre mi
-
-Actualmente trabajo en TurriSystem como desarrollador Full Stack, donde desarrollo modulos de gestion de pagos, validaciones bancarias y generacion de reportes para entidades publicas como la Defensoria del Pueblo. Antes de esto, pase casi 2 anos en Thomas Greg and Sons como desarrollador RPA, automatizando procesos financieros y de recursos humanos con UiPath y Power Platform.
-
-Mi formacion en ingenieria electronica me dio una base solida en logica, sistemas y resolucion de problemas que aplico todos los dias en desarrollo de software.
+[Portafolio](https://portafolio.deepdev.com.co) · [LinkedIn](https://linkedin.com/in/david-steven-gonzalez-padilla) · davidsgonzalez98@hotmail.com
 
 ---
 
-### Stack tecnico
+### Experiencia
 
-**Backend:** PHP, Laravel 12, Python, Django, REST APIs, Laravel Sanctum, Spatie Permission
+**Arquitecto de Soluciones Digitales** · Sies Salud · nov 2026 – actualidad
 
-**Frontend:** Vue.js 3, JavaScript, TypeScript, Tailwind CSS, PrimeVue, Pinia
+- Arquitectura de referencia, estándares de ingeniería y modelo de datos común de diez aplicaciones del sector salud.
+- Plataforma común: inicio de sesión único con Microsoft Entra ID, base de datos compartida, servicio central (API) y plantilla base de las aplicaciones.
+- Diseño y puesta en producción de un visor clínico de verificación de identidad del paciente (.NET 10, Angular 22, SQL Server), con más de 1.100 pruebas automatizadas.
+- Gobierno del código en GitHub: estrategia de ramas, revisión obligatoria por pull request y GitHub Actions.
+- Ambientes de pruebas y producción en Windows Server, y aprobación de cada despliegue.
+- Guía técnica del equipo: revisión de código, manual de ingeniería y uso de IA generativa en el ciclo de desarrollo.
 
-**Bases de datos:** MySQL, Oracle, SQLite, Dataverse
+**Ingeniero de Desarrollo** · Sies Salud · abr 2026 – oct 2026
 
-**Automatizacion y RPA:** UiPath, Power Automate, Power Apps, Power Virtual Agents, VBA
+Aplicaciones web internas del sector salud con C# / .NET, Angular y SQL Server, desplegadas en Windows Server.
 
-**Herramientas:** Git, Postman, Redis, Chart.js, Power BI, Odoo ERP
+**Desarrollador Full Stack** · TurriSystem · dic 2024 – mar 2026
 
-**Infraestructura:** Linux (Ubuntu), Nginx, GitHub Actions CI/CD, Cloudflare Tunnel
+Sistemas web para entidades públicas con Laravel y Vue.js: módulos completos desde el mockup hasta la interfaz, APIs REST, migración de PHP legacy a 8.x y bases de datos MySQL y Oracle.
 
----
+**Desarrollador RPA** · Thomas Greg and Sons · feb 2023 – nov 2024
 
-### Proyectos destacados
+Bots con UiPath para procesos financieros y de recursos humanos, aplicaciones internas con Power Apps y Dataverse, chatbots de autogestión para empleados y módulos en Odoo.
 
-**VigilIA** - Sistema de administracion de conjuntos residenciales multi-tenant con control de acceso vehicular, facturacion, reservas de zonas comunes y sistema PQRS. 7 roles, 105 permisos, 8 modulos funcionales. Laravel 12 + Vue.js 3 + MySQL.
-[Ver proyecto](https://vigilia.deepdev.com.co) | [Repositorio](https://github.com/ROBOCOP3PK/vigilia)
+**Auxiliar de Mejora Continua** · Thomas Greg and Sons · sep 2021 – ene 2023
 
-**PetuniaPlay** - E-commerce de productos para mascotas con programa de fidelizacion, cupones avanzados, panel de administracion, seguimiento de envios y cumplimiento normativo colombiano. 22 modelos, 33 componentes Vue, 37 migraciones. Laravel 12 + Vue.js 3.
-[Ver proyecto](https://tienda.deepdev.com.co) | [Repositorio](https://github.com/ROBOCOP3PK/PetuniaPlay)
-
-**Finanzas Compartidas** - PWA para gestion de gastos personales y compartidos con calculo automatico de deudas, funcionamiento offline con IndexedDB y sincronizacion. Desplegado en servidor propio con Cloudflare Tunnel. Laravel 12 + Vue.js 3 + SQLite.
-[Ver proyecto](https://finanzas.deepdev.com.co) | [Repositorio](https://github.com/ROBOCOP3PK/finanzas)
-
-**Valera Emocional** - Plataforma SaaS multi-tenant para bienestar laboral y gestion de permisos con flujos de aprobacion jerarquicos, motor de reglas configurable e integracion con Slack y Teams. PWA con soporte offline. En desarrollo activo.
-[Repositorio](https://github.com/ROBOCOP3PK/valera)
+Levantamiento de procesos, estudios de tiempos y documentación de proyectos de transformación digital (RPA, ERP, firma digital).
 
 ---
 
-### Experiencia profesional
+### Stack
 
-**Desarrollador Full Stack** - TurriSystem (dic 2024 - presente)
-Desarrollo de sistemas web para entidades publicas. Migracion de codigo legacy a PHP 8.x, manejo de MySQL y Oracle, implementacion de modulos completos desde mockups hasta interfaz.
+**Arquitectura:** arquitectura de soluciones, Clean Architecture, modelado de datos, APIs REST, multi-tenant
 
-**Desarrollador RPA** - Thomas Greg and Sons (feb 2023 - nov 2024)
-Desarrollo de bots con UiPath para procesos financieros y de RRHH. Aplicaciones internas con Power Apps y Power Automate. Chatbots de autoservicio para empleados. Personalizacion de modulos en Odoo ERP.
+**Backend:** C# / .NET (ASP.NET Core), PHP / Laravel, Python / Django
 
-**Auxiliar de Mejora Continua** - Thomas Greg and Sons (sep 2021 - ene 2023)
-Mapeo de procesos, estudios de tiempos, documentacion de proyectos de transformacion digital (RPA, ERP, firma digital). Evaluacion de proveedores tecnologicos.
+**Frontend:** Angular, Vue.js, TypeScript, JavaScript, Tailwind CSS
 
----
+**Bases de datos:** SQL Server (T-SQL), MySQL, Oracle, SQLite, Redis
 
-### Formacion
+**Nube y DevOps:** Azure, Microsoft Entra ID, GitHub Actions, Windows Server, Linux, Nginx, PowerShell
 
-**Especializacion en Gestion de TI** - Universidad CUN (en curso, finalizacion dic 2026)
-
-**Ingenieria Electronica** - Universidad Cooperativa de Colombia (sep 2022)
-
-**Certificaciones:** Six Sigma (EAN), UiPath Developer, Power Apps (Microsoft), Python (Uniagustiniana), IoT Fundamentals (Cisco)
+**Automatización:** UiPath, Power Automate, Power Apps, Power BI, Dataverse, Odoo
 
 ---
 
-### Contacto
+### Proyectos propios
 
-- Portafolio: [portafolio.deepdev.com.co](https://portafolio.deepdev.com.co)
-- LinkedIn: [david-steven-gonzalez-padilla](https://linkedin.com/in/david-steven-gonzalez-padilla)
-- Email: davidsgonzalez98@hotmail.com
+Plataformas que diseñé, programé y desplegué por mi cuenta. El código es privado; todas están en línea.
+
+**[VigilIA](https://vigilia.deepdev.com.co)** · Administración de conjuntos residenciales. SaaS multi-tenant con control de acceso, facturación, reservas, PQRS, emergencias y apps móviles; 7 roles y 106 permisos. Laravel 12, Vue 3, Ionic, MySQL.
+
+**[Valera Emocional](https://valera.deepdev.com.co)** · Bienestar laboral. SaaS multi-tenant de permisos laborales con aprobaciones jerárquicas, motor de reglas y tableros de analítica. Laravel 12, Vue 3, TypeScript, MySQL, PWA.
+
+**[Finanzas Compartidas](https://finanzas.deepdev.com.co)** · Gestión de gastos personales y compartidos, con funcionamiento sin conexión y sincronización. Laravel 12, Vue 3, Pinia, SQLite, PWA.
+
+**[Domicilios](https://domicilios.deepdev.com.co)** · Pedidos para restaurantes locales, sin comisiones, con app de cliente y panel. Laravel, Vue 3, MySQL, PWA.
+
+Más proyectos en el [portafolio](https://portafolio.deepdev.com.co).
+
+---
+
+### Formación
+
+**Especialización en Gestión de TI** · Universidad CUN · en curso
+
+**Ingeniería Electrónica** · Universidad Cooperativa de Colombia · 2022
+
+**Certificaciones:** Six Sigma (Universidad EAN), UiPath Developer (UiPath Academy), Power Apps (Microsoft Learn), Python (Uniagustiniana), IoT Fundamentals (Cisco)
+
+**Idiomas:** español nativo, inglés B2
